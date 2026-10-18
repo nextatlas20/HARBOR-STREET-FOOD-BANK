@@ -1,0 +1,11 @@
+sequence,request_id,site,food_type,needed_by,priority,requested_units,allocated_units,shortage_units
+1,RQ-202,River Clinic,milk,2031-11-07,urgent,20,18,2
+2,RQ-208,Elm House,soup,2031-11-07,urgent,25,25,0
+3,RQ-201,Oak Shelter,beans,2031-11-08,urgent,40,40,0
+4,RQ-205,Elm House,carrots,2031-11-10,urgent,15,15,0
+5,RQ-212,Elm House,carrots,2031-11-10,urgent,15,15,0
+6,RQ-204,Oak Shelter,bread,2031-11-08,standard,30,24,6
+7,RQ-206,River Clinic,oil,2031-11-08,standard,8,0,8
+8,RQ-209,Oak Shelter,rice,2031-11-08,standard,20,0,20
+9,RQ-203,Maple Center,apples,2031-11-09,standard,25,25,0
+10,RQ-207,Maple Center,pasta,2031-11-10,standard,40,36,4
